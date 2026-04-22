@@ -1,9 +1,5 @@
 # O-Sullivan-2026
-# Title of Your Project
+# Code for Epigenetic Modification at Chromosome Ends 
 ## Overview
-Briefly describe
-Example:
-This repository contains scripts used to analyze nanopore sequencing data to study DNA methylation dynamics and CENP-A positioning. The pipeline includes basecalling, alignment, methylation extraction. 
-## Data Availability
-Raw sequencing data is available at the XXXX under accession number: XXXX.
-Processed data used for plotting is available upon request / included in this repository (edit as needed).
+This repository contains scripts used to analyze CENP-A CUT&RUN data, mod_extract for extracting modifications, and DiMeLo-seq analysis. 
+
